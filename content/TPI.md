@@ -1,4 +1,4 @@
-==**Laser di collegamento(Data link)**==
+**Laser di collegamento(Data link)**
 
 Il laser di collegamento prepara i dati di rete per la rete fisica, è il responsabile della scheda di interfaccia di rete (NIC) per le comunicazioni.
 
@@ -50,4 +50,6 @@ Responsabile dei driver e della trasmissione e mediazione dei comandi.
 
 **SHELL(INTERZACCIA UTENTE)**
 
-I servizi offerti dal kernel si ottengono per mezzo di chiamate di funzione.alcune vengono direttamente dai programmi utente altre devono essere scelte o richiamate dall’utente stesso.l’utente può accedere alle funzioni di sistema solo attraverso lo Shell che prende
+I servizi offerti dal kernel si ottengono per mezzo di chiamate di funzione.alcune vengono direttamente dai programmi utente altre devono essere scelte o richiamate dall’utente stesso.l’utente può accedere alle funzioni di sistema solo attraverso lo Shell che prende.
+[[GESTORE DELLA MEMORIA]]
+[[MEMORIA VIRTUALE]]
