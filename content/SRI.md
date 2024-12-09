@@ -1,3 +1,4 @@
+TORNA ALLA HOME  : **[[content/index|index]]**
 **Data link**
 
 Livello 2 collegamento dati
@@ -5,9 +6,30 @@ Livello 2 collegamento dati
 Framing = incapsulamento dei dati aggiungendo un'intestazione e una coda
 
 Un messaggio di livello due prende il nome di frame. Il framing imbustai dati che gli arrivano dal livello superiore aggiungendo un’intestazione è una coda che contiene i controllo necessari.
+Nelle telecomunicazioni per data link si intende la connessione tra una stazione e un'altra al fine di trasmettere e ricevere segnali digitali. Può anche riferirsi ad un set di componenti elettronici atti a garantire una trasmissione tra le stazioni. La comunicazione è governata da un protocollo che stabilisce le regole di trasmissione.
 
-**Go back n**
+Il livello Data Link è il secondo strato del modello OSI (Open Systems Interconnection) e gioca un ruolo cruciale nella comunicazione di rete. La sua funzione principale è quella di fornire un trasferimento affidabile dei dati tra dispositivi collegati direttamente, incapsulando i dati in pacchetti chiamati frame.
 
-In questo caso il ricevitore dispone di una sola posizione di memoria, dove trattiene la trama appena ricevuta per il tempo necessario al controllo di errore. In presenza di un errore di ricezione della trama N + 1, rilevato dopo la corretta ricezione di N + / + 1, il ricevitore invia un NACK(N + D), chiedendo con ciò al trasmettitore di andare indietro, ed inizia a scartare tutte le trame con numeri maggiori di N + 1, finché non riceve la N + /, e riprende le normali operazioni.
+Le principali funzioni del livello Data Link includono:
+- **Controllo del Flusso**: Gestisce la sequenza di trasmissione dei frame.
+- **Controllo degli Errori**: Implementa meccanismi per rilevare e correggere errori durante la trasmissione.
+- **Framing**: Incapsulamento dei dati in frame, che contengono intestazioni e informazioni di controllo.
+- **Accesso al Mezzo**
 
-Il metodo Go-Back N è uno dei modi più efficienti di effettuare una connessione, perché contrariamente al dovere aspettare che ogni frame invii il proprio frame ACK, la connessione viene usata più a lun il tempo che altrimenti sarebbe stato di attesa, vengono inviati frame aggiuntivi a prescindere dal risultato dell'invio precedente. Infatti, l'arrivo di un ACK relativo al frame che occupa l'estremo inferiore del trasmissione e il conseguente "scorrimento" della finestra di una posizione in avanti, per permettere l'invio di un frame in più.
+Ci sono almeno tre tipi base di implementazioni data-link: 
+
+- Simplex, è la più comune e consiste nelle comunicazioni unidirezionali.
+    
+- Half-duplex, sono le comunicazioni che avvengono in entrambe le direzioni ma non in modo simultaneo.
+    
+- Duplex, comunicazioni in entrambe le direzioni simultaneamente.
+
+Altri appunti di SRI:
+- **[[CAVI]]**
+- **[[DNS]]**
+- **[[Go back n]]**
+
+
+
+
+

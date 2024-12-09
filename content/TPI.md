@@ -1,3 +1,4 @@
+TORNA ALLA HOME  : **[[content/index|index]]**
 **Laser di collegamento(Data link)**
 
 Il laser di collegamento prepara i dati di rete per la rete fisica, è il responsabile della scheda di interfaccia di rete (NIC) per le comunicazioni.

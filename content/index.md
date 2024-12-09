@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Benvenuti nei miei appunti
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Salve, questi sono gli appunti di Davide Schiavo:
+
+[[SRI]]
+[[TPI]]
