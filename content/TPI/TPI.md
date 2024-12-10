@@ -1,4 +1,4 @@
-TORNA ALLA HOME  : [[content/index|index]]
+TORNA ALLA HOME  : [[content/index]]
 
 Altri appunti di TPI:
 - **[[CLI]]**
