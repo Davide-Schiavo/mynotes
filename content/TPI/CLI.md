@@ -1,4 +1,5 @@
 TORNA ALLA HOME :[[TPI]]
+
 CLI è un tipo di interfaccia utente caratterizzata da un'interazione testuale tra utente ed elaboratore.
 
 L'utente impartisce comandi testuali in input mediante tastiera alfanumerica e riceve risposte testuali in output dall'elaboratore mediante display o stampante alfanumerici. Nei sistemi operativi moderni usati nei personal computer, al posto della CLI, in buona parte, c'è l'interfaccia grafica (GUI).

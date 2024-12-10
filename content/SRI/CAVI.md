@@ -1,4 +1,5 @@
 TORNA ALLA HOME :[[SRI]]
+
 Il **cavo coassiale** è un tipo di cavo elettrico progettato per la trasmissione di segnali elettrici, in particolare per segnali ad alta frequenza come quelli utilizzati nelle telecomunicazioni e nella televisione. Questo cavo è composto da diversi strati concentrici, che includono:
 
 - **Conduttore centrale**: Un filo di rame che trasmette il segnale.

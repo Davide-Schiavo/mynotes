@@ -1,4 +1,5 @@
 TORNA ALLA HOME :[[SRI]]
+
 Livello 2 collegamento dati
 
 Framing = incapsulamento dei dati aggiungendo un'intestazione e una coda

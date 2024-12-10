@@ -1,4 +1,5 @@
 TORNA ALLA HOME :[[SRI]]
+
 **COMANDI :**
 Questi sono alcuni comandi fondamentali : 
 - ls : elenca i contenuti delle directory.
