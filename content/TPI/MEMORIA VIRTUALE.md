@@ -1,3 +1,4 @@
+TORNA ALLA HOME :[[TPI]]
 - Riduzione della frammentazione della memoria (quantità di memoria non utilizzabile).
     
 - Il SO tiene in memoria centrale solo le parti del programma in uso, il resto sul disco.

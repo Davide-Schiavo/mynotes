@@ -1,3 +1,4 @@
+TORNA ALLA HOME :[[SRI]]
 Il **Domain Name System (DNS)** è un sistema fondamentale per la navigazione su Internet, che consente di tradurre i nomi di dominio leggibili dall'uomo in indirizzi IP utilizzati dai computer per identificarsi sulla rete. In altre parole, il DNS funge da "rubrica" di Internet, permettendo agli utenti di accedere ai siti web attraverso nomi.
 Il processo di risoluzione DNS avviene in diverse fasi:
 

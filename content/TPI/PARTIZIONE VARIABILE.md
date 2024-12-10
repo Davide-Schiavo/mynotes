@@ -1,3 +1,4 @@
+TORNA ALLA HOME :[[TPI]]
 È possibile modificare dinamicamente sia il numero sia la dimensione delle partizioni presenti.
 
 Strategie di allocazione dinamica della memoria centrale(Utilizzabili anche per partizioni fisse):

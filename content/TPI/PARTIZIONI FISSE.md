@@ -1,3 +1,4 @@
+TORNA ALLA HOME :[[TPI]]
 Quando si inizializza un sistema vengono stabilite le dimensioni delle partizioni, possono essere diverse tra loro, per ogni partizione c’è una coda che l’attesa dei job, vengono aggiunti nella coda della partizione più piccola che riesce a contenerlo.
 
 PROBLEMI?

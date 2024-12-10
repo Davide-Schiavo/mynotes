@@ -1,3 +1,4 @@
+TORNA ALLA HOME :[[TPI]]
 l laser di collegamento prepara i dati di rete per la rete fisica, è il responsabile della scheda di interfaccia di rete (NIC) per le comunicazioni.
 
 Esegue diverse operazioni:

@@ -1,3 +1,4 @@
+TORNA ALLA HOME :[[TPI]]
 Un programma, prima di essere caricato in memoria centrale, viene inserito in una coda di ingresso e poi trasferito in una Reading List (RL). Il compilatore e il linker stabiliscono i collegamenti tra istruzioni e indirizzi logici, che diventeranno indirizzi fisici al momento del caricamento. Questo tipo di codice è definito rilocabile.
 
 - Durante la fase di caricamento in memoria, tutti i riferimenti del programma sono sommati a un indirizzo base, in un processo chiamato rilocazione statica. 
