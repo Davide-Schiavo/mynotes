@@ -1,4 +1,4 @@
-TORNA ALLA HOME  : [[content/index|index]]
+TORNA ALLA HOME  : [[index]]
 
 Altri appunti di SRI:
 - **[[Data link]]**
